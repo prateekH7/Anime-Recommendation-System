@@ -1,4 +1,4 @@
-Anime Recommendation System (NLP + ML)
+## Anime Recommendation System (NLP + ML)
 
 This project builds a content-based recommendation engine that suggests similar anime titles using TF-IDF vectorization and cosine similarity.
 The model analyzes anime descriptions, genres, ratings, and user reviews to identify similarity patterns and return top recommendations.
